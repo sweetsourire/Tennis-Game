@@ -10,7 +10,7 @@ let player1Score = 0
 let player2Score = 0
 const WINNING_SCORE = 5
 
-let showingWinScreen = false
+let showingWinScreen = true
 
 let paddle1Y = 250
 let paddle2Y = 250
